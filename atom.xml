@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id/>
+    <title>Charlie自留地</title>
+    <updated>2020-10-25T09:07:00.442Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="self" href="atom.xml"/>
+    <logo>images/avatar.png</logo>
+    <icon>https://static.gridea.dev/fieking/10b8210b-976c-46c4-bde9-dd4b9cde7e71.png</icon>
+    <rights>All rights reserved 2020, Charlie自留地</rights>
+</feed>
