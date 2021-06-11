@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>my-blog.git</id>
+    <title>Charlie自留地</title>
+    <updated>2021-06-11T07:33:09.869Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="my-blog.git"/>
+    <link rel="self" href="my-blog.git/atom.xml"/>
+    <logo>https://static.gridea.dev/fieking/10b8210b-976c-46c4-bde9-dd4b9cde7e71.png</logo>
+    <icon>https://static.gridea.dev/fieking/10b8210b-976c-46c4-bde9-dd4b9cde7e71.png</icon>
+    <rights>All rights reserved 2021, Charlie自留地</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello world 新家祝贺]]></title>
+        <id>https://my-blog.git/hello-world-xin-jia-zhu-he</id>
+        <link href="https://my-blog.git/hello-world-xin-jia-zhu-he"/>
+        <updated>2021-06-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi，大家好，我是Charliefoo
+一个做游戏的匠人，希望能一直制作游戏，使用Blog作为自己的自留地，分享生活的点滴
+作为一个肉身不能自由，灵魂渴望自由的打工人，希望能借助前人的探索，走出一条自由的路
+我会给大家分享自己喜欢的音乐，特...]]></summary>
+        <content type="html"><![CDATA[<p>Hi，大家好，我是Charliefoo</p>
+<p>一个做游戏的匠人，希望能一直制作游戏，使用Blog作为自己的自留地，分享生活的点滴</p>
+<p>作为一个肉身不能自由，灵魂渴望自由的打工人，希望能借助前人的探索，走出一条自由的路</p>
+<p>我会给大家分享自己喜欢的音乐，特别是港乐，那是我生命中重要的组成部分。</p>
+]]></content>
+    </entry>
+</feed>
