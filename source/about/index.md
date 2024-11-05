@@ -5,7 +5,7 @@ date: 2024-11-05 23:09:00
 
 ### 关于我
 
-![31231314](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/31231314.png)
+![2312](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/2312.png)
 
 Hi，我是查猫CHACAT，85后，游戏迷、书迷、手机摄影师、长内容爱好者，EVA粉丝，日常在阅读、创作、跑步。
 
