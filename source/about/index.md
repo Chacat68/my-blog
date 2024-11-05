@@ -10,10 +10,6 @@ Hi，我是查猫CHACAT，85后，游戏迷、书迷、手机摄影师、长内�
 - 好东西分享：[**Goods**](https://www.chawfoo.com/happy)
 - 最后，把这些年做过的一些事情记录下来，汇总成：[**做事经历**](https://www.chawfoo.com/workart)
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
-
 ## 关于博客
 
 ### 历史
