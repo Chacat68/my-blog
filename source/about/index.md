@@ -5,6 +5,8 @@ date: 2024-11-05 23:09:00
 
 ### 关于我
 
+![ChaCat](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/ChaCat.png)
+
 Hi，我是查猫CHACAT，85后，游戏迷、书迷、手机摄影师、长内容爱好者，EVA粉丝，日常在阅读、创作、跑步。
 
 - 博客会记录 [随笔](https://www.chawfoo.com/category/%E9%9A%8F%E7%AC%94)、[设计](https://www.chawfoo.com/category/%E8%AE%BE%E8%AE%A1)、[思考](https://www.chawfoo.com/category/%E6%80%9D%E8%80%83)、[它山之石](https://www.chawfoo.com/category/%E5%AE%83%E5%B1%B1%E4%B9%8B%E7%9F%B3)
