@@ -102,3 +102,8 @@ theme: cactus
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+
+# _config.yml
+theme_config:
+  colorscheme: dark
