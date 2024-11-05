@@ -39,7 +39,7 @@ Hi，我是查猫CHACAT，85后，游戏迷、书迷、手机摄影师、长内�
 
 **自由且克制**
 
-![DSC03956QuMagie](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/DSC03956%20QuMagie.jpg)
+![DSC04066](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/DSC04066.jpg)
 
 要保持对“自由”的向往，对整个世界保持好奇心，从自己的角度出发，稳定且克制地去探索世界的边界，并总结其中的规律，找到穿越历史周期中不变的因素。
 
