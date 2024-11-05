@@ -1,15 +1,15 @@
 ---
 title: 《IF 如果》
-date: 2021-08-27
+date: 2019-04-17
 categories: 随笔
 tags: [生活, 自我反思, 时间管理, 家庭, 游戏]
 ---
 <aside>
 💡 这首英诗是我在看《我董你》采访周玉琴小姐所知道的，上网搜索了一下，《三感》Blog上翻译的版本不错，借此与诸位分享。
 
-</aside>
+<-aside>
 
-https://www.youtube.com/watch?v=ryIsDgj7OXg
+https:--www.youtube.com-watch?v=ryIsDgj7OXg
 
 如果 (作者: Rudyard Kipling)
 
@@ -86,9 +86,9 @@ With sixty seconds’ worth of distance run,
 Yours is the Earth and everything that’s in it,
 And—which is more—you’ll be a Man, my son!
 
-来源：[三感](http://threesentiments.com/2018/10/29/poetry-if/)
+来源：[三感](http:--threesentiments.com-2018-10-29-poetry-if-)
 
 <aside>
 💡 感谢您的观看！欢迎分享文章，或是来信与我交流。
 
-</aside>
+<-aside>
