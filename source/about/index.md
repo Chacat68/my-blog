@@ -49,7 +49,7 @@ Hi，我是查猫CHACAT，85后，游戏迷、书迷、手机摄影师、长内�
 
 **简单的生活**
 
-![20191116_054736630_iOS](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/20191116_054736630_iOS.jpg)
+![DSC03225](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/DSC03225.jpg)
 
 保持生活上的简单，减少决策的心智成本，把精力花费在创作上。
 
