@@ -4,12 +4,10 @@ date: 2019-04-17
 categories: 随笔
 tags: [生活, 自我反思, 英诗, Rudyard Kipling, 诗歌翻译]
 ---
-<aside>
+
 💡 这首英诗是我在看《我董你》采访周玉琴小姐所知道的，上网搜索了一下，《三感》Blog上翻译的版本不错，借此与诸位分享。
 
-<-aside>
-
-https:--www.youtube.com-watch?v=ryIsDgj7OXg
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f7JRl_ocBKA?si=0eOUpT_IfuKC08UE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 如果 (作者: Rudyard Kipling)
 
@@ -88,7 +86,5 @@ And—which is more—you’ll be a Man, my son!
 
 来源：[三感](http:--threesentiments.com-2018-10-29-poetry-if-)
 
-<aside>
-💡 感谢您的观看！欢迎分享文章，或是来信与我交流。
 
-<-aside>
+💡 感谢您的观看！欢迎分享文章，或是来信与我交流。
