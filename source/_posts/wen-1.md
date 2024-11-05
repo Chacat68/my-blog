@@ -1,7 +1,7 @@
 ---
 title: 《IF 如果》
 date: 2019-04-17
-categories: 随笔
+categories: 它山之石
 tags: [生活, 自我反思, 英诗, Rudyard Kipling, 诗歌翻译]
 ---
 
