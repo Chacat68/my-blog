@@ -1,7 +1,7 @@
 ---
 title: 词曲人：C.Y.KONG&Jean
 date: 2020/02/17
-categories: 它山之石
+categories: 随笔
 tags: [香港音乐, CY Kong, Jean Chien, 粤语歌, 林夕, 杨千嬅, 音乐人物, 作曲人]
 ---
 
