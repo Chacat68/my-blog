@@ -2,7 +2,7 @@
 title: 好设计的10个原则
 date: 2021-06-18
 categories: 随笔
-tags: [读书笔记, 商业, 远程工作, 公司文化, 管理]
+tags: [设计原则, 产品设计, Dieter Rams, 布劳恩设计]
 ---
 
 !https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20201130233051.jpeg
