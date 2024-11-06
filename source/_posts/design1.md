@@ -45,7 +45,7 @@ Products that satisfy this criterion are tools. They are neither decorative obje
 
 产品要像工具一样能够达成某种目的。 它们既不是装饰物也不是艺术品。因此它们应该是中庸的，带有约束的，这样会给使用者的个性表现上留有一定空间。
 
-!https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/Losili.png
+![](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20201130233051.jpeg)
 
 5.Good design is honest
 
@@ -63,7 +63,7 @@ A product is bought in order to be used. It must serve a defined purpose – in 
 
 产品买来是要使用的。 至少要满足某些基本标准,，不但是功能，也要体现在用户的购买心里和产品的审美上。 优秀的设计强调实用性的同时也不能忽略其它方面，不然产品就会大打折扣。
 
-!https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/9vs14O.png
+![](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/ZvlNUr.png)
 
 7.Good design is long-lasting
 
@@ -81,7 +81,7 @@ Thoroughness and accuracy of design are synonymous with the product and its func
 
 任何细节都不能敷衍了事或者怀有侥幸心理。设计过程中的悉心和精确是对消费者的一种尊敬。
 
-!https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/a4vBb0.png
+![](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/SkLFKY.png)
 
 9.Good design is environmentally friendly
 
