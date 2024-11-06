@@ -1,7 +1,7 @@
 ---
 title: 简述游戏地图制作过程
 date: 2020-12-21
-categories: 随笔
+categories: 设计
 tags: [游戏开发, 地图设计, 策略游戏, 三国]
 ---
 
