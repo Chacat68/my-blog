@@ -5,7 +5,7 @@ categories: 随笔
 tags: [设计原则, 产品设计, Dieter Rams, 布劳恩设计]
 ---
 
-!https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20201130233051.jpeg
+[](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/20201130233051.jpeg)
 
 在众多设计准则中，其中特别受广泛推崇的是迪特·拉姆斯（Dieter Rams）所定义的“好设计的10个原则（Ten principles for good design）”， 也即德国布劳恩公司优良设计十项原则。
 
