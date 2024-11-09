@@ -17,13 +17,6 @@
 # --------------------------- start ---------------------------
 # Site information
 # 网站信息
-title: 付之一笑 # 网站标题
-subtitle: '阅读、思考、写作' # 副标题
-description: '创作自留地' # 网站描述
-keywords: '游戏, 开发' # 网站关键字
-author: 查猫 # 网站作者
-language: zh-CN # 网站语言
-timezone: 'Asia/Shanghai' # 时区
 site:
   name: 付之一笑
     class: text # text / i_class / img
